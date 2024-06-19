@@ -1,0 +1,41 @@
+OUTPUT OF TASK -1 :
+
+
+
+Welcome to the to do list app :)
+
+
+Please select one of the following options
+------------------------------------------
+1. Add a new task
+2. Delete a task
+3. List tasks
+4. Quit
+Enter your choice: 1
+Please enter a task: study,dancing,walking,swimming,question solving
+Task 'study,dancing,walking,swimming,question solving' added to the list.
+
+
+Please select one of the following options
+------------------------------------------
+1. Add a new task
+2. Delete a task
+3. List tasks
+4. Quit
+Enter your choice: 2
+Current Tasks:
+Task #0. study,dancing,walking,swimming,question solving
+Enter the # to delete: swimming
+Invalid input.
+
+
+Please select one of the following options
+------------------------------------------
+1. Add a new task
+2. Delete a task
+3. List tasks
+4. Quit
+Enter your choice: 4
+Goodbye 👋👋
+
+=== Code Execution Successful ===
